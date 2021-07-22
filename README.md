@@ -2,7 +2,6 @@
 
  🔭 I’m currently working on AgriTech Apps
  
- ![](https://komarev.com/ghpvc/?username=yadavmangesh&color=green)
 <!--
 **yadavmangesh/yadavmangesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
