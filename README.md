@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 I am currently working with a Japanese C2C e-commerce app.<br>🤖 Android developer with 7 years of experience.<br>📝 Trying to learn backend development using Python.
+👨🏻‍💻 I am currently working with a Japanese C2C e-commerce app.<br>🤖 Android developer with 7 years of experience.<br>📝 Trying to learn backend development using Kotlin.
 
 
 ## 🌐 Socials:
